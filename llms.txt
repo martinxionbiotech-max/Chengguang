@@ -1,0 +1,16 @@
+# Chengguang — Brand Assets
+
+> Static media/asset repository for Chengguang Power Tech (Jinzhou Chengguang Power Source Co., Ltd.), a car and truck battery OEM manufacturer. Contains the company logo and product photography. This repository is not a standalone website — it stores brand assets referenced by the Chengguang Power Tech sites.
+
+## Contents
+
+- [Logo](https://github.com/martinxionbiotech-max/Chengguang/tree/main/logo): Chengguang logo assets.
+- [Product Pictures](https://github.com/martinxionbiotech-max/Chengguang/tree/main/product%20pictures): Battery product photography (DIN/JIS/BCI series models).
+
+## Primary site
+
+- [Chengguang Power Tech](https://chengguangenergy.com/): Corporate/OEM marketing site.
+
+## Notes
+
+- No dedicated domain or website is configured in this repository; it is an asset store, so this llms.txt documents the repository rather than a served site.
